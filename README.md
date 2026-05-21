@@ -65,12 +65,33 @@ Halo! Saya **Rofiq**, seorang kreator yang bergerak di persimpangan antara **log
 
 ---
 
-### 🎵 Current Coding Vibe
+### 🏆 Pencapaian GitHub
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dovfl3kdr7opzs3mkdxp5ls3hy&cover_image=true&theme=tokyonight">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dovfl3kdr7opzs3mkdxp5ls3hy&cover_image=true&theme=tokyonight" alt="Spotify Now Playing" />
+  <a href="https://github.com/rofiqsyf">
+    <img src="https://github-profile-trophy.vercel.app/?username=rofiqsyf&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
   </a>
 </div>
+
+### 💼 Proyek Unggulan
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <strong>🚀 BijakBelanja</strong>
+      <p><em>Deskripsi singkat: AI Anti Impulsive Buying.</em></p>
+      <a href="https://github.com/rofiqsyf/BijakBelanja">📂 Repository</a> • <a href="#">🌐 Live Demo</a>
+      <br/><br/>
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <strong>🎨 Portofolio</strong>
+      <p><em>Deskripsi singkat: Tugas Portolio Saya.</em></p>
+      <a href="https://github.com/rofiqsyf/portofoliorofiqsyf">🖼️ Studi Kasus</a> • <a href="https://portofoliorofiq.vercel.app/">✒️ Figma</a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 ---
 
