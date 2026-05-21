@@ -8,9 +8,9 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/username_kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/username_kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:email_kamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/rofiq-syaifurrohman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/rofiqsyf"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:rofiqsyaifurrohman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -67,13 +67,13 @@ Halo! Saya **Rofiq**, seorang kreator yang bergerak di persimpangan antara **log
 
 ### 🎵 Current Coding Vibe
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=user_id_spotify_kamu&cover_image=true&theme=tokyonight" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dovfl3kdr7opzs3mkdxp5ls3hy&cover_image=true&theme=tokyonight" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Usahakan Doamu dan Doakan Usahamu" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%" />
   <p>Dibuat dengan ❤️ oleh <b>@rofiqsyf</b></p>
