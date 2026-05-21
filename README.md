@@ -67,13 +67,15 @@ Halo! Saya **Rofiq**, seorang kreator yang bergerak di persimpangan antara **log
 
 ### 🎵 Current Coding Vibe
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dovfl3kdr7opzs3mkdxp5ls3hy&cover_image=true&theme=tokyonight" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31dovfl3kdr7opzs3mkdxp5ls3hy&cover_image=true&theme=tokyonight">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dovfl3kdr7opzs3mkdxp5ls3hy&cover_image=true&theme=tokyonight" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Usahakan Doamu dan Doakan Usahamu" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%" />
   <p>Dibuat dengan ❤️ oleh <b>@rofiqsyf</b></p>
