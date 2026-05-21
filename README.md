@@ -1,38 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Welcome%20to%20rofiqsyf's%20Space!&fontSize=38&fontAlignY=35&desc=Developer%20%7C%20Creator%20%7C%20Explorer&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=rofiqsyf%20%7C%20Creative%20Mind&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Coding%20%E2%80%A2%20UI/UX%20Design%20%E2%80%A2%20Visual%20Arts&descAlignY=60" width="100%" />
 
 <a href="https://github.com/rofiqsyf">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+everyone!+%F0%9F%91%8B;Selamat+Datang+di+Profil+Saya!;Mari+berkarya+dan+belajar+bersama!+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=A9FF68&center=true&vCenter=true&width=700&lines=Crafting+Digital+Experiences;Designing+the+Future+of+UI;Turning+Pixels+into+Art;Building+Scalable+Solutions" alt="Typing Animation" />
 </a>
 
 <br/>
 
-<p><em>"Mengubah baris kode menjadi solusi yang nyata dan kreatif."</em></p>
-
-[![GitHub followers](https://img.shields.io/github/followers/rofiqsyf?label=Follow&style=for-the-badge&color=2ea043&logo=github)](https://github.com/rofiqsyf)
-[![GitHub stars](https://img.shields.io/github/stars/rofiqsyf/rofiqsyf?style=for-the-badge&color=e3b341&logo=github)](https://github.com/rofiqsyf/rofiqsyf)
+<a href="https://linkedin.com/in/username_kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/username_kamu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:email_kamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
 ---
 
-### 🚀 Tentang Saya
-Selamat datang di ruang digital saya! Di sini saya membagikan eksperimen kode, proyek yang sedang dikembangkan, dan perjalanan belajar saya.
+### 🚀 Menjelajahi Alam Digital Saya
+Halo! Saya **Rofiq**, seorang kreator yang bergerak di persimpangan antara **logika pemrograman** dan **estetika desain**. Saya percaya bahwa setiap baris kode harus memiliki jiwa, dan setiap desain harus memiliki fungsi.
 
-* 🔭 **Sedang Mengerjakan:** Proyek web kreatif dan eksplorasi teknologi baru.
-* 🌱 **Sedang Mempelajari:** Pengembangan sistem yang lebih efisien dan desain interaktif.
-* 💬 **Mari Berdiskusi:** Terbuka untuk kolaborasi ide atau sekadar mengobrol tentang teknologi.
+- 🎨 **Fokus Utama:** High-Fidelity UI Design & Front-end Development.
+- 🛠️ **Misi:** Menciptakan antarmuka yang intuitif dan visual yang memanjakan mata.
+- 🌌 **Vibe:** Minimalist, Functional, and Bold.
 
-### 🛠️ Teknologi & Alat Utama
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-  </a>
-</p>
+---
 
-<br/>
+### 🛠️ Tech Stack & Creative Toolbox
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>💻 Coding</strong><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🎨 UI/UX & Design</strong><br/>
+      <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd,ae,pr" />
+    </td>
+    <td align="center" width="33%">
+      <strong>🚀 Tools</strong><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,blender" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Statistik & Aktivitas (Real-time)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=rofiqsyf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rofiqsyf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rofiqsyf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎵 Current Coding Vibe
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=user_id_spotify_kamu&cover_image=true&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=2&section=footer" width="100%" />
+  <p>Dibuat dengan ❤️ oleh <b>@rofiqsyf</b></p>
 </div>
