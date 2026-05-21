@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=rofiqsyf%20%7C%20Creative%20Mind&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Coding%20%E2%80%A2%20UI/UX%20Design%20%E2%80%A2%20Visual%20Arts&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=rofiqsyf%20%7C%20Creative%20Mind&fontSize=50&animation=twinkling&fontAlignY=40&desc=Coding%20%E2%80%A2%20UI/UX%20Design%20%E2%80%A2%20Visual%20Arts&descAlignY=60" width="100%" />
 
 <a href="https://github.com/rofiqsyf">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=A9FF68&center=true&vCenter=true&width=700&lines=Crafting+Digital+Experiences;Designing+the+Future+of+UI;Turning+Pixels+into+Art;Building+Scalable+Solutions" alt="Typing Animation" />
@@ -72,6 +72,8 @@ Halo! Saya **Rofiq**, seorang kreator yang bergerak di persimpangan antara **log
   </a>
 </div>
 
+---
+
 ### 💼 Proyek Unggulan
 
 <table border="0" width="100%">
@@ -79,15 +81,15 @@ Halo! Saya **Rofiq**, seorang kreator yang bergerak di persimpangan antara **log
     <td width="50%" align="center">
       <br/>
       <strong>🚀 BijakBelanja</strong>
-      <p><em>Deskripsi singkat: AI Anti Impulsive Buying.</em></p>
+      <p><em>AI Anti Impulsive Buying & Personal Finance.</em></p>
       <a href="https://github.com/rofiqsyf/BijakBelanja">📂 Repository</a> • <a href="#">🌐 Live Demo</a>
       <br/><br/>
     </td>
     <td width="50%" align="center">
       <br/>
-      <strong>🎨 Portofolio</strong>
-      <p><em>Deskripsi singkat: Tugas Portolio Saya.</em></p>
-      <a href="https://github.com/rofiqsyf/portofoliorofiqsyf">🖼️ Studi Kasus</a> • <a href="https://portofoliorofiq.vercel.app/">✒️ Figma</a>
+      <strong>🎨 Digital Portofolio</strong>
+      <p><em>Modern Portfolio Showcase & UX Case Study.</em></p>
+      <a href="https://github.com/rofiqsyf/portofoliorofiqsyf">🖼️ Repository</a> • <a href="https://portofoliorofiq.vercel.app/">🌐 Live Demo</a>
       <br/><br/>
     </td>
   </tr>
